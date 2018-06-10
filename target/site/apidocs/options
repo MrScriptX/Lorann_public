@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/scrip/Desktop/Lorann/showboard/target/classes;C:/Users/scrip/Desktop/Lorann/contract/target/classes;C:/Users/scrip/Desktop/Lorann/controller/target/classes;C:/Users/scrip/Desktop/Lorann/model/target/classes;C:/Users/scrip/Desktop/Lorann/view/target/classes;C:/Users/scrip/Desktop/Lorann/main/target/classes;C:/Users/scrip/.m2/repository/mysql/mysql-connector-java/6.0.6/mysql-connector-java-6.0.6.jar'
+-encoding
+'Cp1252'
+-protected
+-sourcepath
+'C:/Users/scrip/Desktop/Lorann/showboard/src/main/java;C:/Users/scrip/Desktop/Lorann/showboard/target/generated-sources/annotations;C:/Users/scrip/Desktop/Lorann/contract/src/main/java;C:/Users/scrip/Desktop/Lorann/contract/target/generated-sources/annotations;C:/Users/scrip/Desktop/Lorann/controller/src/main/java;C:/Users/scrip/Desktop/Lorann/controller/target/generated-sources/annotations;C:/Users/scrip/Desktop/Lorann/model/src/main/java;C:/Users/scrip/Desktop/Lorann/model/target/generated-sources/annotations;C:/Users/scrip/Desktop/Lorann/view/src/main/java;C:/Users/scrip/Desktop/Lorann/view/target/generated-sources/annotations;C:/Users/scrip/Desktop/Lorann/main/src/main/java;C:/Users/scrip/Desktop/Lorann/main/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2018. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/scrip/Desktop/Lorann/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'lorann 0.0.1-SNAPSHOT API'
+-linkoffline
+'http://docs.oracle.com/javase/8/docs/api' 'C:/Users/scrip/Desktop/Lorann/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'lorann 0.0.1-SNAPSHOT API'

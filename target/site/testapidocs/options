@@ -1,0 +1,26 @@
+-classpath
+'C:/Users/scrip/Desktop/Lorann/target/classes;C:/Users/scrip/Desktop/Lorann/target/test-classes;C:/Users/scrip/Desktop/Lorann/showboard/target/classes;C:/Users/scrip/Desktop/Lorann/showboard/target/test-classes;C:/Users/scrip/Desktop/Lorann/contract/target/classes;C:/Users/scrip/Desktop/Lorann/contract/target/test-classes;C:/Users/scrip/Desktop/Lorann/controller/target/classes;C:/Users/scrip/Desktop/Lorann/controller/target/test-classes;C:/Users/scrip/Desktop/Lorann/model/target/classes;C:/Users/scrip/Desktop/Lorann/model/target/test-classes;C:/Users/scrip/Desktop/Lorann/view/target/classes;C:/Users/scrip/Desktop/Lorann/view/target/test-classes;C:/Users/scrip/Desktop/Lorann/main/target/classes;C:/Users/scrip/Desktop/Lorann/main/target/test-classes;C:/Users/scrip/.m2/repository/mysql/mysql-connector-java/6.0.6/mysql-connector-java-6.0.6.jar;C:/Users/scrip/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar;C:/Users/scrip/.m2/repository/junit/junit/4.11/junit-4.11.jar'
+-encoding
+'Cp1252'
+-protected
+-sourcepath
+'C:/Users/scrip/Desktop/Lorann/showboard/src/test/java;C:/Users/scrip/Desktop/Lorann/contract/src/test/java;C:/Users/scrip/Desktop/Lorann/controller/src/test/java;C:/Users/scrip/Desktop/Lorann/model/src/test/java;C:/Users/scrip/Desktop/Lorann/view/src/test/java;C:/Users/scrip/Desktop/Lorann/main/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2018. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/scrip/Desktop/Lorann/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'lorann 0.0.1-SNAPSHOT Test API'
+-link
+'../apidocs'
+-linkoffline
+'http://docs.oracle.com/javase/8/docs/api' 'C:/Users/scrip/Desktop/Lorann/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'lorann 0.0.1-SNAPSHOT Test API'
